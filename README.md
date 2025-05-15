@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🗨️ About me
 
 I’m a software engineer working in France’s growing tech industry. I specialize in Python and use it across web development, data engineering, and AI.
 
@@ -26,10 +25,10 @@ const vianneymi = {
     frameworks : {
         "web" : ["FastAPI", "Flask", "Vue", "Express"],
         "data" : ["Pandas", "Numpy", "Pydantic", "Scikit-learn"],
-        "automation":["browser-use", "playwright", "selenium"]
+        "automation":["browser-use", "playwright", "selenium"],
         "ai": ["smolagents", "LangChain", "LangGraph",  "Llama Index"],
         "ofmyOwn":["monggregate", "amplifai"]
-    }
+    },
     techniques:{
         "data" : ["Web Scraping","Data Cleaning", "Data Modelling", "Predictive Modeling", "Data Visualization", "Data Storytelling", "Data Pipeline", "Data Warehouse"],
         "ai" : ["RAG", "Semantic Search", "Data Extraction"]
