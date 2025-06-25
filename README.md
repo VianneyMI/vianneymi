@@ -68,10 +68,6 @@ Library to make __MongoDB__ aggregation framework and pipelines easy to use in _
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=VianneyMI&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
-
 
 
 
